@@ -1,0 +1,30 @@
+
+
+/**
+ * *************************************************************************************************
+ * Add your own custom CSS styles here to override supplied
+ * *************************************************************************************************
+ */
+
+body {
+
+}
+
+h1, h2, h3, h4, h5 {
+
+}
+
+.pozadie {
+ background-color: #805b4d;
+    color: wheat;
+    padding: 15px 0px;
+
+}
+
+.text-secondary {
+    color: #ffffff;
+}
+
+body {
+    color: #000000;
+}
