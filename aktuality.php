@@ -66,6 +66,7 @@
           <h2>Výročné správy</h2>
           <p>Výročné správy zariadenia Senior Garden n.o.</p>
           <ul>
+            <li><a href="resources/dokumenty/Vyrocna-sprava_2023.pdf" target="_blank">Výročná správa za rok 2023</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2022.pdf" target="_blank">Výročná správa za rok 2022</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2021.pdf" target="_blank">Výročná správa za rok 2021</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2020.pdf" target="_blank">Výročná správa za rok 2020</a></li>
@@ -81,11 +82,12 @@
             <li><a href="resources/dokumenty/Zakladacia_listina.pdf" target="_blank">Zakladacia listina</a></li>
             <li><a href="resources/dokumenty/Statut.pdf" target="_blank">Štatút zariadenia</a></li>
             <li><a href="resources/dokumenty/krizovy-plan-covid-19.pdf" target="_blank">Krízový plán Covid-19</a></li>
-            <li><a href="resources/dokumenty/strategicke-ciele-na-obdobie-2020.pdf" target="_blank">Strategické ciele ZpS na obdobie 2020</a></li>
+            <li><a href="resources/dokumenty/strategicke-ciele-na-obdobie-2020.pdf" target="_blank">Strategické ciele ZpS na obdobie 2020 - 2025</a></li>
           </ul>
           <p></p>
           <h2>Ako sa stať naším klientom?</h2>
-          <p style="text-align: justify;">Našimi klientmi sa môžu stať ľudia v dôchodkovom veku, so stupňom odkázanosti na pomoc inej osoby IV, V a VI. Ak máte záujem o umiestnenie, kontaktujte sociálnu pracovníčku Mgr. Alžbetu Barzovú na e-mailovej adrese: <a href="mailto: barzova@seniorgarden.sk">barzova@seniorgarden.sk</a>, alebo na tel. č. 036 6396 639</p>
+          <p style="text-align: justify;">Našimi klientmi sa môžu stať ľudia v dôchodkovom veku, so stupňom odkázanosti na pomoc inej osoby IV, V a VI. Ak máte záujem o umiestnenie, kontaktujte sociálny úsek na e-mailovej
+          adrese socialne@seniorgarden.sk: <a href="mailto: socialne@seniorgarden.sk">socialne@seniorgarden.sk</a>, alebo na tel. č. 0917 186 226.</p>
           <p style="text-align: justify;"><span style="color: #000000;">SENIOR GARDEN n.o.</span> je nezisková organizácia poskytujúca všeobecne prospešné služby.&nbsp;Nie je vlastníctvom žiadnej fyzickej osoby a riadia ju volení zástupcovia miestnej samosprávy a miestného cirkevného zboru.&nbsp;</p>
           <p style="text-align: justify;"><strong>Domov dôchodcov nevznikol za účelom tvorby zisku, ale chce poskytovať služby ľuďom, najmä seniorom, ktorí potrebujú konkrétnu pomoc.</strong>&nbsp;Od 18.4.2012 je v zmysle § 35 zákona č. 448 /2008 Z.z. o sociálnych službách registrovaným poskytovateľom sociálnych služieb, registrovaný na Úrade Nitrianského samosprávneho kraja v Nitre pod reg. číslom. 242.</p>
           <p style="text-align: left;">&nbsp;</p>

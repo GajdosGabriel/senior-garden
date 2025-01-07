@@ -13,6 +13,7 @@
 
             <div style="font-weight: 200; margin-bottom:5px">Informácie o voľných miestach:</div>
             <i class="fa fa-phone fa-fw"></i> 0917 186 226<br>
+            <i class="fa fa-envelope-o fa-fw"></i> <a href="mailto:socialne@seniorgarden.sk"> socialne@seniorgarden.sk</a>
 
 
 

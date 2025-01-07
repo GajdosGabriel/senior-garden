@@ -73,7 +73,7 @@
           <p>Našou víziou je poskytovať vysoko profesionálne, odborne správne a bezpečné služby so zreteľom na humánny a etický prístup k prijímateľovi, a to v útulnom prostredí komunitného typu. Dôraz kladieme na zabezpečenie čo najväčšej miery sebestačnosti a autonómie prijímateľa tak, aby mohol v zariadení prežiť zmysluplnú a aktívnu starobu ( v ideálnom prípade usilujeme o návrat do domáceho prostredia?).</p>
 
           <p>Klient je našim partnerom a jeho názor je pre nás dôležitý. Chceme preto poskytovať služby nielen spĺňajúce požiadavky na kvalitu, ale tiež orientované na subjektívnu spokojnosť klienta.</p>
-          <p><a href="resources/dokumenty/strategicke-ciele-na-obdobie-2020.pdf" target="_blank">Strategické ciele ZpS na obdobie 2020</a></p>
+          <p><a href="resources/dokumenty/strategicke-ciele-na-obdobie-2020.pdf" target="_blank">Strategické ciele ZpS na obdobie 2020 - 2025</a></p>
       </div>
 
 

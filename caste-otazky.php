@@ -44,7 +44,7 @@
                   </div>
                   <div id="collapseOne" class="panel-collapse collapse">
                     <div class="panel-body">
-                        <p>Našimi klientmi sa môžu stať ľudia v dôchodkovom veku, so stupňom odkázanosti na pomoc inej osoby IV, V a VI. Ak máte záujem o umiestnenie, kontaktujte sociálnu pracovníčku Mgr. Alžbetu Barzovú na e-mailovej adrese: barzova@seniorgarden.sk, alebo na tel.č. 036/ 639 6639</p>
+                        <p>Našimi klientmi sa môžu stať ľudia v dôchodkovom veku, so stupňom odkázanosti na pomoc inej osoby IV, V a VI. Ak máte záujem o umiestnenie, kontaktujte sociálny úsek na e-mailovej adrese: socialne@seniorgarden.sk, alebo na tel.č. 0917 186 226.</p>
 
                         <p>SENIOR GARDEN n.o. je nezisková organizácia poskytujúca všeobecne prospešné služby.</p>
 
