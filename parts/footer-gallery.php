@@ -28,7 +28,7 @@
       <div class="col-sm-4 col-md-3">
         <a href="photo-gallery-6-col.php" class="qt-fade qt-photo-item">
           <h4>Okolie domova</h4>
-          <img class="" src="resources/foto-galeria/DSC_0066.JPG" alt="">
+          <img class="" src="resources/img/gallery/2.JPG" alt="">
         </a>
       </div>
 
