@@ -57,6 +57,7 @@
             <h2>Výročné správy</h2>
           <p>Výročné správy zariadenia Senior Garden n.o.</p>
             <ul>
+          <li><a href="resources/dokumenty/Vyrocna-sprava_2022.pdf" target="_blank">Výročná správa za rok 2022</a></li>
           <li><a href="resources/dokumenty/Vyrocna-sprava_2021.pdf" target="_blank">Výročná správa za rok 2021</a></li>
           <li><a href="resources/dokumenty/Vyrocna-sprava_2020.pdf" target="_blank">Výročná správa za rok 2020</a></li>
           <li><a href="resources/dokumenty/Vyrocna-sprava_2019.pdf" target="_blank">Výročná správa za rok 2019</a></li>

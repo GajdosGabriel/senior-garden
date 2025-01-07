@@ -81,9 +81,9 @@
       <div class="col-md-3">
 
         <?php
-//        include 'parts/sidebar-home.php';
+      //  include 'parts/sidebar-home.php';
         include 'parts/darujte.php';
-
+        include 'parts/na-stiahnutie.php';
         ?>
 
       </div>
