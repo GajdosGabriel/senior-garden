@@ -16,7 +16,7 @@
        <!-- <h4><a href="http://rozhodni.sk/institution/senior-garden-n-o/">Postup pri poukazovaní 2%</a></h4> -->
 	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Instrukcie-kpodpore-2-perc-Senior-Garden.pdf"><i class="fa fa-arrow-circle-right"></i> Postup darovania 2%</a></h4>
 	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Potvrdenie-2019.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Potvrdenie</a></h4>
-	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Vyhlasenie-2024.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Vyhlásenie</a></h4>
+	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Vyhlasenie-default.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Vyhlásenie</a></h4>
 	
 
 
