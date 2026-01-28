@@ -58,7 +58,7 @@
           <p>• 10,00 € - pri racionálnej strave</p>
           <p>• 10,00 € - pri šetriacej, bielkovinovej resp. diabetickej diéte</p>
           <p>Celodennú stravu tvorí: raňajky, desiata, obed, olovrant, večera (druhá večera len pri určitých diagnózach, napr. diabetes atď.)</p>
-          <p>Ceny za jednotlivé jedlá podávané v priebehu dňa: <br> • <strong>raňajky</strong> 1,65 € <br>•<strong> desiata</strong> 0,50 € <br>•<strong> obed</strong> 4,20 € <br>• <strong>olovrant</strong> 0,50 € <br>• <strong>večera</strong> 3,15 € <br> • <strong>druhá večera</strong>&nbsp;len pri určitých diagnózach v tom prípade je cena večere 1,50 € a cena druhej večere 0,50 €</p>
+          <p>Ceny za jednotlivé jedlá podávané v priebehu dňa: <br> • <strong>raňajky</strong> 1,65 € <br>•<strong> desiata</strong> 0,50 € <br>•<strong> obed</strong> 4,20 € <br>• <strong>olovrant</strong> 0,50 € <br>• <strong>večera</strong> 3,15 €</p>
           <!--            <p>Spolu (stravná jednotka za deň) : <strong>5,50 € resp. 6,00 €</strong>-->
           V prípade neodobratej stravy sa vykoná mesačné vyúčtovanie podľa počtu odobratých jedál za príslušný kalendárny mesiac. Strava, ktorá nebude odhlásená s dostatočným predstihom, je účtovaná ako strava odobraná.</p>
           <p>&nbsp;</p>
@@ -82,8 +82,9 @@ Klient platí úhradu za ubytovanie aj počas prerušenia poskytovanej starostli
 <p>Klient neplatí úhradu za upratovanie, pranie, žehlenie, údržbu bielizne a šatstva počas prerušenia poskytovanej starostlivosti z vážnych dôvodov.</p>
            <p>&nbsp;</p>
           <p>&nbsp;</p>
-          <p class="well"><strong>Úhradu za poskytované služby klient (resp. jeho zákonný zástupca) uhradí v mesačných platbách za bežný mesiac vždy k 10. dňu príslušného kalendárneho mesiaca prevodom na účet zariadenia, SENIOR GARDEN
-              n.o., IBAN: SK95 5600 0000 0071 8243 7001</strong></p>
+          <p class="well"><strong>Účet zariadenia SENIOR GARDEN n. o.<br/>
+              IBAN: SK95 5600 0000 0071 8243 7001</strong>
+            </p>
           <p>&nbsp;</p>
           <p>&nbsp;</p>
         </div>
