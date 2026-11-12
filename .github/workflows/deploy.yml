@@ -1,0 +1,33 @@
+name: Nasadenie na hosting
+
+on:
+  push:
+    branches: [master]
+  workflow_dispatch:        # možnosť spustiť nasadenie aj ručne v záložke Actions
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Stiahnutie kódu
+        uses: actions/checkout@v4
+
+      - name: Nahratie na hosting cez FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          server-dir: web/
+          exclude: |
+            **/.git*
+            **/.git*/**
+            .github/**
+            .claude/**
+            spusti-server.bat
+            resources/less/**
