@@ -1,4 +1,2 @@
-
-
-<?php include 'contact-details.php'; ?>
+<?php include 'contact-info.php'; ?>
 

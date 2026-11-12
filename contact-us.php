@@ -30,25 +30,26 @@
 
     <div class="row">
 
-      <div class="col-md-8">
+      <div class="col-md-7">
 
         <div class="qt-page-header">
-          <h2>Kontaktujte nás! <small> - Ako sa s nami spojíte</small></h2>
+          <!-- <h2>Kontaktujte nás! <small> - Ako sa s nami spojíte</small></h2> -->
         </div>
 
         <div class="qt-page-body">
-
-          <p class="lead">Na vaše otázky vám radi odpovedáme. Neváhajte nám poslať dotazy.</p>
-
-          <hr>
-
-          <?php include 'parts/contact-form.php'; ?>
-
+          <div class="qt-widget-box">
+            <div class="qt-widget-header">
+              <h3><i class="fa fa-map-marker"></i> Kde nás nájdete</h3>
+            </div>
+            <div class="qt-widget-body">
+              <?php include_once 'parts/contact-map.php'; ?>
+            </div>
+          </div>
         </div>
 
       </div>
 
-      <div class="col-md-4">
+      <div class="col-md-5">
 
         <?php include 'parts/sidebar-contact.php'; ?>
 

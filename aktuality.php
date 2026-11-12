@@ -57,6 +57,8 @@
           <h2>Hospodárenie</h2>
           <p>Hospodárske výsledky zariadenia Senior Garden n.o.</p>
           <ul>
+            <li><a href="resources/dokumenty/Prijmy-a-vydavky-za-rok-2025.pdf" target="_blank">Prehľad o príjmoch (výnosoch) a výdavkoch (nákladoch) za rok 2025</a></li>
+            <li><a href="resources/dokumenty/Prijmy-a-vydavky-za-rok-2024.pdf" target="_blank">Prehľad o príjmoch (výnosoch) a výdavkoch (nákladoch) za rok 2024</a></li>
             <li><a href="resources/dokumenty/Prijmy-a-vydavky-za-rok-2023.pdf" target="_blank">Prehľad o príjmoch (výnosoch) a výdavkoch (nákladoch)
                 za rok 2023</a></li>
           </ul>
@@ -66,6 +68,8 @@
           <h2>Výročné správy</h2>
           <p>Výročné správy zariadenia Senior Garden n.o.</p>
           <ul>
+            <li><a href="resources/dokumenty/Vyrocna-sprava_2025.pdf" target="_blank">Výročná správa za rok 2025</a></li>
+            <li><a href="resources/dokumenty/Vyrocna-sprava_2024.pdf" target="_blank">Výročná správa za rok 2024</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2023.pdf" target="_blank">Výročná správa za rok 2023</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2022.pdf" target="_blank">Výročná správa za rok 2022</a></li>
             <li><a href="resources/dokumenty/Vyrocna-sprava_2021.pdf" target="_blank">Výročná správa za rok 2021</a></li>
