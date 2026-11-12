@@ -1,8 +1,10 @@
+<?php http_response_code(404); ?>
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Simple Page - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template">
+<meta name="description" content="Stránka nebola nájdená – Senior Garden n.o.">
+<meta name="robots" content="noindex">
 
-<title>404 Page not found! - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template</title>
+<title>Stránka nebola nájdená - Senior Garden n.o.</title>
 
 <?php include 'parts/header-bottom.php'; ?>
 <?php include 'parts/header-nav.php'; ?>
@@ -19,10 +21,10 @@
       <div class="col-md-12">
 
         <div class="qt-page-header">
-          <h2>404 <small> - Page not found!</small></h2>
+          <h2>404 <small> - Stránka nebola nájdená</small></h2>
           <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
-            <li class="active">404 Page not found!</li>
+            <li><a href="index.php">Úvod</a></li>
+            <li class="active">Stránka nebola nájdená</li>
           </ol>
         </div>
 
@@ -40,9 +42,9 @@
 
             <div class="col-sm-8">
               <div class="well well-lg">
-                <p class="lead">The page you are trying to access wasn't found!</p>
-                <p>May be it never existed or may be it got eaten by the nasty 404 bug. Who knows? You may start with our home page.</p>
-                <p><br><a href="#" class="btn btn-primary btn-lg"><i class="fa fa-home"></i> &nbsp; Home Page</a></p>
+                <p class="lead">Stránku, ktorú hľadáte, sa nepodarilo nájsť.</p>
+                <p>Možno bola presunutá alebo odstránená. Pokračujte prosím na úvodnú stránku.</p>
+                <p><br><a href="index.php" class="btn btn-primary btn-lg"><i class="fa fa-home"></i> &nbsp; Úvodná stránka</a></p>
               </div>
             </div>
 

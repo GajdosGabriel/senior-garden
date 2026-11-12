@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="Fakturačné údaje domova pre dôchodcov SeniorGarden n.o." content="Fakturačné údaje domova pre dôchodcov SeniorGarden n.o.">
+<meta name="description" content="Fakturačné údaje domova pre dôchodcov SeniorGarden n.o.">
 
 <title>Časté otázky</title>
 

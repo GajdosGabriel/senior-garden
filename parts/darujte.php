@@ -14,9 +14,9 @@
             <img src="resources/clanky/2-z-dane_3.jpg" alt="Dve percenta z dane">
         </a>
        <!-- <h4><a href="http://rozhodni.sk/institution/senior-garden-n-o/">Postup pri poukazovaní 2%</a></h4> -->
-	<!-- <h4><a target="_blank" href="http://seniorgarden.sk/resources/Instrukcie-kpodpore-2-perc-Senior-Garden.pdf"><i class="fa fa-arrow-circle-right"></i> Postup darovania 2%</a></h4> -->
-	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Potvrdenie.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Potvrdenie</a></h4>
-	<h4><a target="_blank" href="http://seniorgarden.sk/resources/Vyhlasenie-default.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Vyhlásenie</a></h4>
+	<!-- <h4><a target="_blank" rel="noopener" href="resources/Instrukcie-kpodpore-2-perc-Senior-Garden.pdf"><i class="fa fa-arrow-circle-right"></i> Postup darovania 2%</a></h4> -->
+	<h4><a target="_blank" rel="noopener" href="resources/Potvrdenie.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Potvrdenie</a></h4>
+	<h4><a target="_blank" rel="noopener" href="resources/Vyhlasenie-default.pdf"><i class="fa fa-arrow-circle-right"></i> Tlačivo Vyhlásenie</a></h4>
 	
 
 

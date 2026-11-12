@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Four Columns Single Photo Gallery - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template">
+<meta name="description" content="Fotogaléria zo života seniorov v zariadení Senior Garden n.o. v Hornej Seči.">
 
 <title>Život v domove - Zo života seniorov na našom zariadení</title>
 

@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Contact Us - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template">
+<meta name="description" content="Kontakt na zariadenie pre seniorov Senior Garden n.o., Kostolná 81/51, 935 31 Horná Seč.">
 
 <title>Kontakt</title>
 

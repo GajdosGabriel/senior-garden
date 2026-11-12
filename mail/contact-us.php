@@ -1,46 +1,54 @@
 <?php
 
-// Check for empty fields
-if(empty($_POST['name'])  		||
-   empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
-   empty($_POST['message'])	||
-   !filter_var($_POST['email'],FILTER_VALIDATE_EMAIL))
-   {
-	echo "Vyplnte požadované údaje!";
-	return false;
-   }
+header('Content-Type: text/plain; charset=utf-8');
 
-$name          = $_POST['name'];
-$email_address = $_POST['email'];
-$phone         = $_POST['phone'];
-$message       = $_POST['message'];
+// Iba POST požiadavky
+if ($_SERVER['REQUEST_METHOD'] !== 'POST') {
+    http_response_code(405);
+    echo "Nepovolená metóda.";
+    exit;
+}
 
-/**
- * *************************************************************************************************
- * This is where the form will send a message to.
- * *************************************************************************************************
- */
+// Odstráni riadiace znaky (ochrana pred vložením hlavičiek do e-mailu)
+function sg_clean_line($value) {
+    return trim(preg_replace('/[\r\n\t]+/', ' ', (string) $value));
+}
 
-// Add your email address inbetween the '' replacing info@yourwebsite.com
+$name          = sg_clean_line(isset($_POST['name']) ? $_POST['name'] : '');
+$email_address = sg_clean_line(isset($_POST['email']) ? $_POST['email'] : '');
+$phone         = sg_clean_line(isset($_POST['phone']) ? $_POST['phone'] : '');
+$message       = trim(isset($_POST['message']) ? (string) $_POST['message'] : '');
+
+// Kontrola povinných polí
+if ($name === '' || $email_address === '' || $phone === '' || $message === ''
+    || !filter_var($email_address, FILTER_VALIDATE_EMAIL)
+    || mb_strlen($name) > 100 || mb_strlen($phone) > 30 || mb_strlen($message) > 5000) {
+    http_response_code(400);
+    echo "Vyplňte požadované údaje!";
+    exit;
+}
+
+// Adresa, na ktorú sa správa odošle
 $to = 'riaditel@seniorgarden.sk';
 
-/**
- * *************************************************************************************************
- * Create the email and send the message
- * *************************************************************************************************
- */
+$email_subject = '=?UTF-8?B?' . base64_encode("Nová správa z webovej stránky SeniorGarden.sk od: $name") . '?=';
 
-$email_subject = "Nova sprava z webovej stranky SeniorGarden.sk od:  $name";
+$email_body = "Správa z kontaktného formulára www.seniorgarden.sk.\n\n"
+    . "Meno: $name\n\n"
+    . "E-mail: $email_address\n\n"
+    . "Telefón: $phone\n\n"
+    . "Správa:\n$message\n";
 
-$email_body = "Sprava z kontaktneho formulara www.seniorgarden.sk.\n\n"."Tu je text spravy:\n\nName: $name\n\nEmail: $email_address\n\nPhone: $phone\n\nMessage:\n$message";
+$headers  = "From: seniorgarden.sk@gmail.com\r\n";
+$headers .= "Reply-To: $email_address\r\n";
+$headers .= "MIME-Version: 1.0\r\n";
+$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+$headers .= "Content-Transfer-Encoding: 8bit";
 
-// This is the email address the generated message will be from. We recommend using something like noreply@yourwebsite.com.
-$headers = "From: seniorgarden.sk@gmail.com\n";
-$headers .= "Reply-To: $email_address";
+if (!mail($to, $email_subject, $email_body, $headers)) {
+    http_response_code(500);
+    echo "Správu sa nepodarilo odoslať.";
+    exit;
+}
 
-// send the message
-mail($to,$email_subject,$email_body,$headers);
-
-return true;
-
+echo "OK";

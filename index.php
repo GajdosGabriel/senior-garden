@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Senior Garden n.o.">
+<meta name="description" content="Senior Garden n.o. – zariadenie pre seniorov s kapacitou 28 osôb v pokojnom prostredí obce Horná Seč pri Leviciach.">
 
 <title>Senior Garden - zariadenie pre dôchodcov</title>
 
@@ -28,16 +28,16 @@
         </div>
 
         <div class="qt-featured-image qt-page-featured-image img-responsive img-rounded">
-          <img src="resources/foto/senior-garden.jpg" style="width:430px; float: left; margin-right: 15px" alt="Welcome to CreaTec Website London">
+          <img src="resources/foto/senior-garden.jpg" style="width:430px; float: left; margin-right: 15px" alt="Budova zariadenia Senior Garden v Hornej Seči">
         </div>
 
         <div class="qt-page-body">
 
-            <b>SENIOR GARDEN n.o.</b> je nezisková organizácia, ktorá vznikla v r. 2010 a od apríla 2012 prevádzkuje zariadenie pre seniorov v obci Horná Seč v levickom okrese.</p>
+            <p><b>SENIOR GARDEN n.o.</b> je nezisková organizácia, ktorá vznikla v r. 2010 a od apríla 2012 prevádzkuje zariadenie pre seniorov v obci Horná Seč v levickom okrese.</p>
 
           <p>Zariadenie s kapacitou 28 osôb je lokalizované v pokojnej vidieckej lokalite prímestskej obce, ktorá vytvára vhodné predpoklady, aby sa stalo domovom pre seniorov, poskytujúc im celodennú starostlivosť. Štýlovo novozrekonštruovaný objekt s novou prístavbou spĺňa požiadavky na ubytovanie klientov v štrnástich dvojposteľových izbách.</p>
 
-              <p>Každá izba má vlastné sociálne zariadenie (kúpeľňa, WC). Ostatné priestory objektu slúžia na zabezpečenie ďalších služieb pre klientov (jedáleň, výdajňa stravy, spoločenská miestnosť, pomocné priestory pre zabezpečenie hygieny, výmeny prádla a upratovania atď.)
+              <p>Každá izba má vlastné sociálne zariadenie (kúpeľňa, WC). Ostatné priestory objektu slúžia na zabezpečenie ďalších služieb pre klientov (jedáleň, výdajňa stravy, spoločenská miestnosť, pomocné priestory pre zabezpečenie hygieny, výmeny prádla a upratovania atď.)</p>
 
 
 
@@ -48,7 +48,6 @@
                 <p>Domov pre dôchodcov spĺňa náročné kritéria pre bývanie a bezpečnosť klientov. Súčasne je koncipovaný ako otvorené zariadenie komunitného typu. Chceme vytvárať priestor pre aktivity na svojpomoc, vzájomnú pomoc a motivovať našich klientov zúčastňovať sa na komunitnom, spoločenskom a duchovnom živote obce.
 
                 Príjemnú a pokojnú atmosféru lokality okrem miestnej flóry dotvárajú chodníky, lavičky a rozľahlá záhrada.</p>
-            </p>
 
             <div class="qt-featured-image qt-page-featured-image img-responsive img-rounded">
                 <img src="resources/clanky/vysadil-záhradu.jpg" alt="Park Senior Garden zariadenia">

@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Three Columns Photo Albums - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template">
+<meta name="description" content="Fotoalbumy zariadenia pre seniorov Senior Garden n.o.">
 
 <title>Foto Album - všetky kategórie</title>
 

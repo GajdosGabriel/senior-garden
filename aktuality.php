@@ -1,6 +1,6 @@
 <?php include 'parts/header-top.php'; ?>
 
-<meta name="description" content="Simple Page - CreaTec Responsive Multipurpose HTML5 Bootstrap Startup Business Website Template">
+<meta name="description" content="Aktuality a novinky zo zariadenia pre seniorov Senior Garden n.o. v Hornej Seči.">
 
 <title>Aktuality - Aktuálne správy z Senior Garden n.o. domova</title>
 

@@ -33,8 +33,8 @@
           <li><a href="contact-us.php"><i class="fa fa-envelope fa-fw"></i> Kontakt</a></li>
         </ul>
         <i class="fa fa-calendar fa-fw"></i> Prevádzkovateľ:
-          <a href="https://www.horna-sec.sk">Obec Horná Seč</a>,
-          <a href="http://www.cblv.sk"> Zbor CB v Leviciach</a>
+          <a href="https://www.horna-sec.sk" target="_blank" rel="noopener">Obec Horná Seč</a>,
+          <a href="http://www.cblv.sk" target="_blank" rel="noopener"> Zbor CB v Leviciach</a>
 
       </nav>
 
@@ -57,7 +57,7 @@
     <div class="row">
       <div class="col-md-12">
         <div class="qt-footer-bottom">
-          <p>&copy; Copyright Senior Garden n.o. 2019. Všetky práva vyhradené.
+          <p>&copy; Copyright Senior Garden n.o. <?php echo date('Y'); ?>. Všetky práva vyhradené.
 <!--              <a href="#" target="_blank">Business Website</a> by <a href="#" target="_blank">QuickThemes</a></p>-->
         </div>
       </div>
@@ -67,17 +67,8 @@
 
 </footer>
 
-<!--Kód sledovania Google analitics-->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-    ga('create', 'UA-18613776-4', 'auto');
-    ga('send', 'pageview');
-
-</script>
+<!-- Pôvodný Google Universal Analytics (UA-18613776-4) bol odstránený – Google ho od 7/2023 nepodporuje.
+     Ak chcete štatistiky, vložte sem kód Google Analytics 4 (G-XXXXXXX). -->
 
 
 <!-- =========================================================================================== -->
@@ -99,12 +90,6 @@
 <script src="resources/vendor/magnifix-popup/jquery.magnific-popup.min.js"></script>
 
 <!-- =========================== Contact Page Specific ========================================= -->
-
-<!-- Google Maps API -->
-<script src="http://maps.google.com/maps/api/js?sensor=true"></script>
-
-<!-- gMaps Plugin -->
-<script src="resources/vendor/gmaps/gmaps.js"></script>
 
 <!-- Bootstrap form validation library -->
 <script src="resources/vendor/jqBootstrapValidation/jqBootstrapValidation.js"></script>

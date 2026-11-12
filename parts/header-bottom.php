@@ -59,13 +59,7 @@
       <div class="col-sm-12 col-md-4 col-md-pull-4">
 
         <ul class="qt-header-social-listing">
-          <li class="qt-header-social-item"><a href="https://www.facebook.com/Senior-Garden-226263754144557/"><i class="fa fa-facebook-square"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-google-plus-square"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-instagram"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-twitter-square"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-vimeo-square"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-youtube-square"></i></a></li>
-          <li class="qt-header-social-item"><a href="#"><i class="fa fa-linkedin-square"></i></a></li>
+          <li class="qt-header-social-item"><a href="https://www.facebook.com/Senior-Garden-226263754144557/" target="_blank" rel="noopener" aria-label="Senior Garden na Facebooku"><i class="fa fa-facebook-square" aria-hidden="true"></i></a></li>
         </ul>
 
       </div>

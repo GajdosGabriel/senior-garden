@@ -1,17 +1,29 @@
+ErrorDocument 404 /404.php
 
-ExpiresActive On
-ExpiresByType image/gif A2592000
-ExpiresByType image/jpeg A2592000
-ExpiresByType image/jpg A2592000
-ExpiresByType image/png A2592000
-ExpiresByType image/x-icon A2592000
-ExpiresByType text/css A86400
-ExpiresByType text/javascript A86400
-ExpiresByType application/x-shockwave-flash A2592000
-#
-<FilesMatch "\.(gif¦jpe?g¦png¦ico¦css¦js¦swf)$">
-Header set Cache-Control "public"
-</FilesMatch>
+<IfModule mod_expires.c>
+	ExpiresActive On
+	ExpiresByType image/gif A2592000
+	ExpiresByType image/jpeg A2592000
+	ExpiresByType image/jpg A2592000
+	ExpiresByType image/png A2592000
+	ExpiresByType image/x-icon A2592000
+	ExpiresByType text/css A86400
+	ExpiresByType text/javascript A86400
+	ExpiresByType application/javascript A86400
+	ExpiresByType application/pdf A604800
+</IfModule>
+
+<IfModule mod_headers.c>
+	<FilesMatch "\.(gif|jpe?g|png|ico|css|js|pdf)$">
+		Header set Cache-Control "public"
+	</FilesMatch>
+	Header always set X-Content-Type-Options "nosniff"
+	Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+<IfModule mod_deflate.c>
+	AddOutputFilterByType DEFLATE text/html text/css text/plain application/javascript text/javascript image/svg+xml
+</IfModule>
 
 <IfModule mod_rewrite.c>
 
